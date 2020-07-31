@@ -1,0 +1,3 @@
+Test msg from PlasmaBoson
+This is about to show in the mod manager
+Do not copy or release the source code

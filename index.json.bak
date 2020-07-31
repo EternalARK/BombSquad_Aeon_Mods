@@ -1,0 +1,27 @@
+{
+    "mods": {
+        "ServerConnector": {
+            "tag": "Plugin",
+            "url": "https://raw.githubusercontent.com/EternalARK/BombSquad_Aeon_Mods/master/ba_mods/ServerConnector/",
+            "m_name": "ServerConnector.py",
+            "SHA-1": "0ce4093d5ee89739c933c6727972266e54fa16b2",
+            "version": "3.0.3",
+            "author": "Plasma Boson",
+            "description": [
+                "A helpful plugin made by Plasma Boson."
+            ]
+        },
+        "ModifyPartyWindow": {
+            "tag": "Plugin",
+            "url": "https://raw.githubusercontent.com/EternalARK/BombSquad_Aeon_Mods/master/ba_mods/ModifyPartyWindow/",
+            "m_name": "ModifyPartyWindow.py",
+            "SHA-1": "f4d541371fd3991a4dc4eae52b55a6b618ddb06b",
+            "version": "3.0.0",
+            "author": "Plasma Boson",
+            "description": [
+                "A helpful plugin made by Plasma Boson."
+            ]
+        }
+    },
+    "last_update": null
+}
