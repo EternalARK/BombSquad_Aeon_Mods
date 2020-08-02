@@ -2,16 +2,16 @@
  "last_update": null,
  "mods": {
   "ModManager": {
-   "SHA-1": "c0d1ac02dffd3e25b7670bb65fe60806caea5977",
+   "SHA-1": "c811e9d24bde5bf461341163e08173a1d1e6c361",
    "author": "Plasma Boson",
    "description": [
     "A helpful plugin made by Plasma Boson."
    ],
    "file": "ModManager.py",
-   "m_time": 1596300105.9233148,
-   "size": 70306,
+   "m_time": 1596334437.2146022,
+   "size": 54818,
    "tag": "Plugin",
-   "url": "https://raw.githubusercontent.com/EternalARK/BombSquad_Aeon_Mods/master/ba_mods/ServerConnector/",
+   "url": "https://raw.githubusercontent.com/EternalARK/BombSquad_Aeon_Mods/master/ba_mods/ModManager/",
    "version": "0.5.0"
   },
   "ModifyPartyWindow": {
