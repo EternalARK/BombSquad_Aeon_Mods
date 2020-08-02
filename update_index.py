@@ -19,7 +19,7 @@ def get_local_mod_version(path):
     if os.path.isfile(path):
         with open(path,"r",encoding = "utf-8") as reader:
             result = re.search(r'(?<=version_str \= ").*?(?=")',reader.read())
-            return(str(result.group()) if result is not None else None)
+            return(None if result is None or len(str(result)) == 0 else str(result.group()))
     return(None)
 def save_data():
     global data

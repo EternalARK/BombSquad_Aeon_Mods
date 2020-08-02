@@ -2,43 +2,43 @@
  "last_update": null,
  "mods": {
   "ModManager": {
-   "SHA-1": "03096d8e70e48260d33a3ec5f185b113a93ef0c6",
+   "SHA-1": "2f01fe6270c28598e2aa00ed5cf8e86e6adb72d1",
    "author": "Plasma Boson",
    "description": [
     "A helpful plugin made by Plasma Boson."
    ],
    "file": "ModManager.py",
-   "m_time": 1596342038.8955567,
-   "size": 76638,
+   "m_time": 1596367260.7172544,
+   "size": 109538,
    "tag": "Plugin",
    "url": "https://raw.githubusercontent.com/EternalARK/BombSquad_Aeon_Mods/master/ba_mods/ModManager/",
-   "version": "0.6.0"
+   "version": "0.6.1"
   },
   "ModifyPartyWindow": {
-   "SHA-1": "541df45202ee62324a299748cdbb7dc5814bbb42",
+   "SHA-1": "a285b54724a16dfce09ec2bb104b16bcfe112ce7",
    "author": "Plasma Boson",
    "description": [
     "A helpful plugin made by Plasma Boson."
    ],
    "file": "ModifyPartyWindow.py",
-   "m_time": 1596288564.8124356,
-   "size": 64130,
+   "m_time": 1596356286.484075,
+   "size": 65762,
    "tag": "Plugin",
    "url": "https://raw.githubusercontent.com/EternalARK/BombSquad_Aeon_Mods/master/ba_mods/ModifyPartyWindow/",
-   "version": "3.0.2"
+   "version": "3.0.4"
   },
   "ServerConnector": {
-   "SHA-1": "2436310e7406b21848a20d0cbfb4e3df86dbcd46",
+   "SHA-1": "10a9496d0cf0dc0d8d1eda37a28b05afb43cbed5",
    "author": "Plasma Boson",
    "description": [
     "A helpful plugin made by Plasma Boson."
    ],
    "file": "ServerConnector.py",
-   "m_time": 1596288564.8260686,
-   "size": 115187,
+   "m_time": 1596356130.41968,
+   "size": 116487,
    "tag": "Plugin",
    "url": "https://raw.githubusercontent.com/EternalARK/BombSquad_Aeon_Mods/master/ba_mods/ServerConnector/",
-   "version": "3.0.5"
+   "version": "3.0.6"
   }
  }
 }
